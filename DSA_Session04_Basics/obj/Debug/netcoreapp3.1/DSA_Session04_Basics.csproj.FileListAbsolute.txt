@@ -1,0 +1,13 @@
+D:\VLSC_DataStructureAIgorithm\DSA_Session04_Basics\bin\Debug\netcoreapp3.1\DSA_Session04_Basics.exe
+D:\VLSC_DataStructureAIgorithm\DSA_Session04_Basics\bin\Debug\netcoreapp3.1\DSA_Session04_Basics.deps.json
+D:\VLSC_DataStructureAIgorithm\DSA_Session04_Basics\bin\Debug\netcoreapp3.1\DSA_Session04_Basics.runtimeconfig.json
+D:\VLSC_DataStructureAIgorithm\DSA_Session04_Basics\bin\Debug\netcoreapp3.1\DSA_Session04_Basics.runtimeconfig.dev.json
+D:\VLSC_DataStructureAIgorithm\DSA_Session04_Basics\bin\Debug\netcoreapp3.1\DSA_Session04_Basics.dll
+D:\VLSC_DataStructureAIgorithm\DSA_Session04_Basics\bin\Debug\netcoreapp3.1\DSA_Session04_Basics.pdb
+D:\VLSC_DataStructureAIgorithm\DSA_Session04_Basics\obj\Debug\netcoreapp3.1\DSA_Session04_Basics.csprojAssemblyReference.cache
+D:\VLSC_DataStructureAIgorithm\DSA_Session04_Basics\obj\Debug\netcoreapp3.1\DSA_Session04_Basics.AssemblyInfoInputs.cache
+D:\VLSC_DataStructureAIgorithm\DSA_Session04_Basics\obj\Debug\netcoreapp3.1\DSA_Session04_Basics.AssemblyInfo.cs
+D:\VLSC_DataStructureAIgorithm\DSA_Session04_Basics\obj\Debug\netcoreapp3.1\DSA_Session04_Basics.csproj.CoreCompileInputs.cache
+D:\VLSC_DataStructureAIgorithm\DSA_Session04_Basics\obj\Debug\netcoreapp3.1\DSA_Session04_Basics.dll
+D:\VLSC_DataStructureAIgorithm\DSA_Session04_Basics\obj\Debug\netcoreapp3.1\DSA_Session04_Basics.pdb
+D:\VLSC_DataStructureAIgorithm\DSA_Session04_Basics\obj\Debug\netcoreapp3.1\DSA_Session04_Basics.genruntimeconfig.cache
