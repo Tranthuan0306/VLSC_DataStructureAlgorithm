@@ -1,0 +1,13 @@
+D:\VLSC_DataStructureAIgorithm\DSA_Session03\DSA_Session04_Sorting\bin\Debug\netcoreapp3.1\DSA_Session04_Sorting.exe
+D:\VLSC_DataStructureAIgorithm\DSA_Session03\DSA_Session04_Sorting\bin\Debug\netcoreapp3.1\DSA_Session04_Sorting.deps.json
+D:\VLSC_DataStructureAIgorithm\DSA_Session03\DSA_Session04_Sorting\bin\Debug\netcoreapp3.1\DSA_Session04_Sorting.runtimeconfig.json
+D:\VLSC_DataStructureAIgorithm\DSA_Session03\DSA_Session04_Sorting\bin\Debug\netcoreapp3.1\DSA_Session04_Sorting.runtimeconfig.dev.json
+D:\VLSC_DataStructureAIgorithm\DSA_Session03\DSA_Session04_Sorting\bin\Debug\netcoreapp3.1\DSA_Session04_Sorting.dll
+D:\VLSC_DataStructureAIgorithm\DSA_Session03\DSA_Session04_Sorting\bin\Debug\netcoreapp3.1\DSA_Session04_Sorting.pdb
+D:\VLSC_DataStructureAIgorithm\DSA_Session03\DSA_Session04_Sorting\obj\Debug\netcoreapp3.1\DSA_Session04_Sorting.csprojAssemblyReference.cache
+D:\VLSC_DataStructureAIgorithm\DSA_Session03\DSA_Session04_Sorting\obj\Debug\netcoreapp3.1\DSA_Session04_Sorting.AssemblyInfoInputs.cache
+D:\VLSC_DataStructureAIgorithm\DSA_Session03\DSA_Session04_Sorting\obj\Debug\netcoreapp3.1\DSA_Session04_Sorting.AssemblyInfo.cs
+D:\VLSC_DataStructureAIgorithm\DSA_Session03\DSA_Session04_Sorting\obj\Debug\netcoreapp3.1\DSA_Session04_Sorting.csproj.CoreCompileInputs.cache
+D:\VLSC_DataStructureAIgorithm\DSA_Session03\DSA_Session04_Sorting\obj\Debug\netcoreapp3.1\DSA_Session04_Sorting.dll
+D:\VLSC_DataStructureAIgorithm\DSA_Session03\DSA_Session04_Sorting\obj\Debug\netcoreapp3.1\DSA_Session04_Sorting.pdb
+D:\VLSC_DataStructureAIgorithm\DSA_Session03\DSA_Session04_Sorting\obj\Debug\netcoreapp3.1\DSA_Session04_Sorting.genruntimeconfig.cache
